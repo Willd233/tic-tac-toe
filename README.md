@@ -51,8 +51,6 @@ Make sure you have the following installed:
     cd tic-tac-toe
     ```
 
-    _Replace `git@github.com:Willd233/tic-tac-toe.git` with the actual URL of your repository and `cd tic-tac-toe` with the name of the directory._
-
 2.  **Install dependencies:**
 
     ```bash
