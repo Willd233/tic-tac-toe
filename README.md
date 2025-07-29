@@ -47,11 +47,11 @@ Make sure you have the following installed:
 1.  **Clone the repository (or integrate into your existing project):**
 
     ```bash
-    git clone [your-repository-url]
-    cd [your-project-directory]
+    git clone git@github.com:Willd233/tic-tac-toe.git
+    cd tic-tac-toe
     ```
 
-    _Replace `[your-repository-url]` with the actual URL of your repository and `[your-project-directory]` with the name of the directory._
+    _Replace `git@github.com:Willd233/tic-tac-toe.git` with the actual URL of your repository and `cd tic-tac-toe` with the name of the directory._
 
 2.  **Install dependencies:**
 
